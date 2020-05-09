@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SimplePixelEditor/static/css/main.5e99716e.chunk.css",
-    "main.js": "/SimplePixelEditor/static/js/main.047f4c0e.chunk.js",
-    "main.js.map": "/SimplePixelEditor/static/js/main.047f4c0e.chunk.js.map",
+    "main.js": "/SimplePixelEditor/static/js/main.7b42a434.chunk.js",
+    "main.js.map": "/SimplePixelEditor/static/js/main.7b42a434.chunk.js.map",
     "runtime-main.js": "/SimplePixelEditor/static/js/runtime-main.6e494c86.js",
     "runtime-main.js.map": "/SimplePixelEditor/static/js/runtime-main.6e494c86.js.map",
     "static/css/2.35fcc229.chunk.css": "/SimplePixelEditor/static/css/2.35fcc229.chunk.css",
     "static/js/2.f77e00fd.chunk.js": "/SimplePixelEditor/static/js/2.f77e00fd.chunk.js",
     "static/js/2.f77e00fd.chunk.js.map": "/SimplePixelEditor/static/js/2.f77e00fd.chunk.js.map",
     "index.html": "/SimplePixelEditor/index.html",
-    "precache-manifest.3461a4065ec66a41af611f9d5e9e720f.js": "/SimplePixelEditor/precache-manifest.3461a4065ec66a41af611f9d5e9e720f.js",
+    "precache-manifest.4a82be6a4a4484426c24a0f1106bd0c3.js": "/SimplePixelEditor/precache-manifest.4a82be6a4a4484426c24a0f1106bd0c3.js",
     "service-worker.js": "/SimplePixelEditor/service-worker.js",
     "static/css/2.35fcc229.chunk.css.map": "/SimplePixelEditor/static/css/2.35fcc229.chunk.css.map",
     "static/css/main.5e99716e.chunk.css.map": "/SimplePixelEditor/static/css/main.5e99716e.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.35fcc229.chunk.css",
     "static/js/2.f77e00fd.chunk.js",
     "static/css/main.5e99716e.chunk.css",
-    "static/js/main.047f4c0e.chunk.js"
+    "static/js/main.7b42a434.chunk.js"
   ]
 }

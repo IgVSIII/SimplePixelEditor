@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SimplePixelEditor/precache-manifest.3461a4065ec66a41af611f9d5e9e720f.js"
+  "/SimplePixelEditor/precache-manifest.4a82be6a4a4484426c24a0f1106bd0c3.js"
 );
 
 self.addEventListener('message', (event) => {

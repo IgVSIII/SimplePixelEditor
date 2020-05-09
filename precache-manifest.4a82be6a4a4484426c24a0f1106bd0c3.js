@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8fc920b140ae2d1d29064742cf046ecb",
+    "revision": "c1109c6fa9547a642525b0aace9bad87",
     "url": "/SimplePixelEditor/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SimplePixelEditor/static/css/2.35fcc229.chunk.css"
   },
   {
-    "revision": "af62f08d6a3ade8bc0b1",
+    "revision": "f24d9baff17ae991c758",
     "url": "/SimplePixelEditor/static/css/main.5e99716e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SimplePixelEditor/static/js/2.f77e00fd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "af62f08d6a3ade8bc0b1",
-    "url": "/SimplePixelEditor/static/js/main.047f4c0e.chunk.js"
+    "revision": "f24d9baff17ae991c758",
+    "url": "/SimplePixelEditor/static/js/main.7b42a434.chunk.js"
   },
   {
     "revision": "ceee627bf78ea20b7ac6",
