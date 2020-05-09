@@ -2,7 +2,7 @@
   "name": "pixel-editor",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gitname.github.io/SimplePixelEditor",
+  "homepage": "https://igvsiii.github.io/SimplePixelEditor/",
   "dependencies": {
     "@ant-design/icons": "^4.1.0",
     "@testing-library/jest-dom": "^4.2.4",
