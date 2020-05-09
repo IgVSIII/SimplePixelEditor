@@ -8,7 +8,7 @@ function App() {
 
   const [size, setSize] = useState(16);
   const [grid, setGrid] = useState(true);
-  const [color, setColor] = useState("#fff");
+  const [color, setColor] = useState("#ccc");
 
   return (
     <div className="App">
