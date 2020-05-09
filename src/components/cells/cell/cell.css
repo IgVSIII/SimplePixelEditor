@@ -1,0 +1,7 @@
+.Cell {
+    display: flex;
+    height: 32px;
+    width: 32px;
+    border-collapse: inherit;
+    cursor:  crosshair;
+}
